@@ -7,205 +7,47 @@
 	</settings>
 	<sets>
 		<set name="Stand">
-			<main>Bolelabunga</main>
-			<sub>Sors Shield</sub>
-			<ammo>White Tathlum</ammo>
-			<head>Nefer Khat +1</head>
-			<neck>Twilight Torque</neck>
-			<lear>Loquac. Earring</lear>
-			<rear>Magnetic Earring</rear>
-			<body>Heka's Kalasiris</body>
-			<hands>Serpentes Cuffs</hands>
-			<lring>Tamas Ring</lring>
-			<rring>Sangoma Ring</rring>
-			<back>Umbra Cape</back>
-			<waist>Ninurta's Sash</waist>
-			<legs>Nares Trews</legs>
-			<feet>Herald's Gaiters</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Resting">
-			<main>Bolelabunga</main>
-			<sub>Sors Shield</sub>
-			<ammo>White Tathlum</ammo>
-			<head>Nefer Khat +1</head>
-			<neck>Twilight Torque</neck>
-			<lear>Loquac. Earring</lear>
-			<rear>Magnetic Earring</rear>
-			<body>Heka's Kalasiris</body>
-			<hands>Serpentes Cuffs</hands>
-			<lring>Tamas Ring</lring>
-			<rring>Sangoma Ring</rring>
-			<back>Umbra Cape</back>
-			<waist>Pythia Sash +1</waist>
-			<legs>Nares Trews</legs>
-			<feet>Chelona Boots +1</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Enfeeb-ACC">
-			<main>Venabulum</main>
-			<sub>Mephitis Grip</sub>
-			<range>Aureole</range>
-			<head>Nahtirah Hat</head>
-			<neck>Eddy Necklace</neck>
-			<lear>Lifestorm Earring</lear>
-			<rear>Psystorm Earring</rear>
-			<body>Bokwus Robe</body>
-			<hands>Bokwus Gloves</hands>
-			<lring>Maquette Ring</lring>
-			<rring>Sangoma Ring</rring>
-			<back>Refraction Cape</back>
-			<waist>Ninurta's Sash</waist>
-			<legs>Bokwus Slops</legs>
-			<feet>Uk'uxkaj Boots</feet>
-		</set>
+<!--Add Gear Here -->		</set>
 		<set name="Enfeeb-MND">
-			<main>Venabulum</main>
-			<sub>Mephitis Grip</sub>
-			<range>Aureole</range>
-			<head>Nahtirah Hat</head>
-			<neck>Eddy Necklace</neck>
-			<lear>Lifestorm Earring</lear>
-			<rear>Psystorm Earring</rear>
-			<body>Bokwus Robe</body>
-			<hands>Yaoyotl Gloves</hands>
-			<lring>Tamas Ring</lring>
-			<rring>Sangoma Ring</rring>
-			<back>Refraction Cape</back>
-			<waist>Pythia Sash +1</waist>
-			<legs>Bokwus Slops</legs>
-			<feet>Uk'uxkaj Boots</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Divine">
-			<main>Venabulum</main>
-			<sub>Mephitis Grip</sub>
-			<range>Aureole</range>
-			<head>Nahtirah Hat</head>
-			<neck>Eddy Necklace</neck>
-			<lear>Novio Earring</lear>
-			<rear>Hecate's Earring</rear>
-			<body>Bokwus Robe</body>
-			<hands>Yaoyotl Gloves</hands>
-			<lring>Tamas Ring</lring>
-			<rring>Sangoma Ring</rring>
-			<back>Refraction Cape</back>
-			<waist>Pythia Sash +1</waist>
-			<legs>Bokwus Slops</legs>
-			<feet>Bokwus boots</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Stoneskin">
-			<main>Bolelabunga</main>
-			<sub>Sors Shield</sub>
-			<head>Nahtirah Hat</head>
-			<neck>Orunmila's Torque</neck>
-			<lear>Loquac. Earring</lear>
-			<body>Hedera Cotehardie</body>
-			<hands>Bokwus Gloves</hands>
-			<back>Swith Cape +1</back>
-			<waist>Siegel Sash</waist>
-			<legs>Bokwus Slops</legs>
-			<feet>Bokwus boots</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Dark">
 		</set>
 		<set name="Stun">
-			<main>Venabulum</main>
-			<sub>Mephitis Grip</sub>
-			<range>Aureole</range>
-			<head>Nahtirah Hat</head>
-			<neck>Orunmila's Torque</neck>
-			<lear>Lifestorm Earring</lear>
-			<rear>Psystorm Earring</rear>
-			<body>Hedera Cotehardie</body>
-			<hands>Bokwus Gloves</hands>
-			<lring>Maquette Ring</lring>
-			<rring>Sangoma Ring</rring>
-			<back>Swith Cape +1</back>
-			<waist>Ninurta's Sash</waist>
-			<legs>Bokwus Slops</legs>
-			<feet>Bokwus boots</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Enhancing">
-			<main>Beneficus</main>
-			<sub>Sors Shield</sub>
-			<head>Nahtirah Hat</head>
-			<neck>Colossus's Torque</neck>
-			<rear>Augment. Earring</rear>
-			<body>Anhur Robe</body>
-			<hands>Dynasty Mitts</hands>
-			<back>Merciful Cape</back>
-			<waist>Olympus Sash</waist>
-			<legs>Clr. Pantaln. +2</legs>
-			<feet>Orsn. Duckbills +2</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Cure">
-			<main>Tamaxchi</main>
-			<sub>Sors Shield</sub>
-			<ammo>White Tathlum</ammo>
-			<head>Gende. Caubeen +1</head>
-			<neck>Lasaia Pendant</neck>
-			<lear>Novia Earring</lear>
-			<rear>Orison Earring</rear>
-			<body>Orison Bliaud +2</body>
-			<hands>Bokwus Gloves</hands>
-			<lring>Tamas Ring</lring>
-			<rring>Mediator's Ring</rring>
-			<back>Pahtli Cape</back>
-			<waist>Pythia Sash +1</waist>
-			<legs>Orsn. Pantaln. +2</legs>
-			<feet>Cure Clogs</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Curaga">
-			<main>Tamaxchi</main>
-			<sub>Sors Shield</sub>
-			<ammo>White Tathlum</ammo>
-			<head>Gende. Caubeen +1</head>
-			<neck>Orunmila's Torque</neck>
-			<lear>Novia Earring</lear>
-			<rear>Orison Earring</rear>
-			<body>Heka's Kalasiris</body>
-			<hands>Orison Mitts +2</hands>
-			<lring>Tamas Ring</lring>
-			<rring>Mediator's Ring</rring>
-			<back>Pahtli Cape</back>
-			<waist>Pythia Sash +1</waist>
-			<legs>Orsn. Pantaln. +2</legs>
-			<feet>Cure Clogs</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Cursna">
-			<neck>Debilis Medallion</neck>
-			<hands>Hieros Mittens</hands>
-			<lring>Haoma's Ring</lring>
-			<rring>Haoma's Ring</rring>
-			<feet>Gende. Galoshes</feet>		
+<!--Add Gear Here -->		
 		</set>
 		<set name="StatusCure">
-			<head>Orison Cap +2</head>
-			<hands>Orison Mitts +2</hands>
-			<back>Mending Cape</back>
+<!--Add Gear Here -->
 		</set>
 		<set name="Haste">
-			<ammo>Incantor Stone</ammo>
-			<head>Nahtirah Hat</head>
-			<neck>Orunmila's Torque</neck>
-			<lear>Loquac. Earring</lear>
-			<body>Hedera Cotehardie</body>
-			<hands>Bokwus Gloves</hands>
-			<rring>Prolix Ring</rring>
-			<back>Swith Cape +1</back>
-			<waist>Ninurta's Sash</waist>
-			<legs>Bokwus Slops</legs>
-			<feet>Bokwus boots</feet>
+<!--Add Gear Here -->
 		</set>
 		<set name="Precast">
-			<ammo>Incantor Stone</ammo>
-			<head>Nahtirah Hat</head>
-			<neck>Orunmila's Torque</neck>
-			<lear>Loquac. Earring</lear>
-			<body>Anhur Robe</body>
-			<hands>Gende. Gages +1</hands>
-			<rring>Prolix Ring</rring>
-			<back>Swith Cape +1</back>
-			<legs>Orvail Pants</legs>
-			<feet>Chelona Boots +1</feet>
+<!--Add Gear Here -->
 		</set>
 		<include>
 			<item quantity="12">Echo Drops</item>
